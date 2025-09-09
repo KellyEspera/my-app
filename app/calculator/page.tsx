@@ -4,7 +4,7 @@ export default function Calculator() {
 
     return (
         <div style={{ color: 'blue' }}>Calculator Page
-        <Index/>
+        
         
         </div>
         
